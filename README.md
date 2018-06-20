@@ -1,2 +1,2 @@
 # ShoppingBasketUI5
-Shopping Basket Approval 
+Shopping Basket Approval
